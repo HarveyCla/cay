@@ -2,3 +2,6 @@ cay
 seker
 su
 süt
+krema
+Krema2
+nerde
